@@ -1,0 +1,22 @@
+.title_div{
+    background:pink;
+    color:blue;
+    font-family:cursive;
+}
+p{
+    color: black;
+}
+body{
+    background-color: pink;
+}
+.end_div{
+    position:fixed;
+    bottom:0;
+    line-height: 3;
+    width:100%;
+    font-size:20px;
+    text-align: center;
+    background-color:lightskyblue;
+    text-shadow: 5px 5px 5px;
+
+}
